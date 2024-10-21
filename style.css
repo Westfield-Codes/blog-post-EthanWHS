@@ -21,3 +21,8 @@ html {
   padding-top:1em;
   color:firebrick;
 }
+
+th,td {
+padding:0 10px;
+
+}
