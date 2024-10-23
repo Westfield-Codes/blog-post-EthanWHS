@@ -1,6 +1,7 @@
 html {
   height: 100%;
   width: 100%;
+  background-color:black;
 }
 
 .bd-placeholder-img {
@@ -24,5 +25,12 @@ html {
 
 th,td {
 padding:0 10px;
-
 }
+
+body, h2, {
+  font-family:Helvetica;
+ }
+
+ .reply {
+  padding-left:50px;
+ }
