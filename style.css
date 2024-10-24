@@ -34,3 +34,9 @@ body, h2, {
  .reply {
   padding-left:50px;
  }
+ #flags {
+  background:url("California_Flag.svg") repeat-x;
+  height:300px;
+  width:100%;
+  background-size:contain;
+ }
