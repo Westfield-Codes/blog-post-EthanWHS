@@ -40,3 +40,6 @@ body, h2, {
   width:100%;
   background-size:contain;
  }
+ img {
+  float: left;
+}
