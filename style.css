@@ -43,3 +43,19 @@ body, h2, {
  img {
   float: left;
 }
+figure {
+  float:left;
+}
+.clearfix {
+  clear:left;
+}
+.right-text {
+  font-size:20px;
+}
+.reasons {
+  width:80%;
+  margin:20px auto;
+  background-color:lightgray;
+  padding:20px;
+  
+}
